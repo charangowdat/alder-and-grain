@@ -1,0 +1,8 @@
+{
+  "name": "Remix Alder \u0026 Grain",
+  "description": "Neighborhood artisan hearth bakery and specialty espresso bar in Ballard, Seattle. Stone-milled sourdough loaves, laminated viennoiserie, seasonal espresso drinks, and local catering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
